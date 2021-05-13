@@ -4,7 +4,7 @@
 
 xsetroot -cursor_name left_ptr &
 dunst &
-xset -b & #For annoying beeping sounds
+xset -b &
 sxhkd & 
 picom &
 exec ~/.config/polybar/launch.sh &
